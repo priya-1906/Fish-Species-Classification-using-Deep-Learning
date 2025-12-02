@@ -1,0 +1,8 @@
+streamlit>=1.24
+tensorflow>=2.10
+numpy
+pillow
+scikit-learn
+matplotlib
+seaborn
+pyngrok  
